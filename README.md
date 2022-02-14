@@ -79,8 +79,7 @@ https://www.figma.com/file/hUpnxAph7YJxBTTAjgh3zh/slutProjektUiUx?node-id=0%3A1
 <li> Vue JS <br>
 https://github.com/NabhanJS/iths-e-wallet <br> <br>
 
-## My Youtube Channel:
-https://www.youtube.com/channel/UCH6CqOrSR6pq86OYUWd92Nw
+
 
 
 
